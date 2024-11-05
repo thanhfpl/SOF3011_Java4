@@ -1,0 +1,5 @@
+com\example\OnTap_Java4\controller\BanServlet.class
+com\example\OnTap_Java4\entity\Ban.class
+com\example\OnTap_Java4\repository\BanRepository.class
+com\example\OnTap_Java4\util\HibernateUtil.class
+com\example\OnTap_Java4\HelloServlet.class

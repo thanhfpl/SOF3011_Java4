@@ -1,0 +1,5 @@
+com\example\ThiThu_Java4\entity\SanPham.class
+com\example\ThiThu_Java4\repository\SanPhamRepository.class
+com\example\ThiThu_Java4\controller\SanPhamServlet.class
+com\example\ThiThu_Java4\HelloServlet.class
+com\example\ThiThu_Java4\util\HibernateConfig.class
